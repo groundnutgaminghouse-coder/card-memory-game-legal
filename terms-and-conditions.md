@@ -1,13 +1,13 @@
 # Terms and Conditions — Groundnut Gaming House
 
-**App:** Memory Game  
+**Game:** Titan Memory Master  
 **Publisher:** Groundnut Gaming House  
 **Contact:** groundnutgaminghouse@gmail.com  
-**Last updated:** October 14, 2026
+**Last updated:** October 23, 2026
 
 ## 1. Acceptance of These Terms
 
-These Terms and Conditions (“Terms”) govern your use of the Memory Game (“the Game”), provided by Groundnut Gaming House (“we,” “us,” or “our”).
+These Terms and Conditions (“Terms”) govern your use of Titan Memory Master (“the Game”), provided by Groundnut Gaming House (“we,” “us,” or “our”).
 
 By installing or using the Game, you agree to these Terms to the extent permitted by applicable law. If you do not agree, please stop using the Game.
 
@@ -46,11 +46,11 @@ Player names and avatars may be visible to other players in online matches. Do n
 
 ## 5. Advertisements and Third-Party Services
 
-The Game displays advertisements using Google AdMob and uses Photon for online multiplayer.
+The Game displays advertisements through Google AdMob and uses Photon services for online multiplayer.
 
-These third-party services are provided under their own terms, policies, and technical conditions. Their availability and operation may affect parts of the Game.
+Advertisements may promote products or services offered by third parties. We do not control every aspect of the advertisements displayed or the content of external websites linked through advertisements. The display of an advertisement does not necessarily mean that we endorse the advertised product or service.
 
-We do not control all aspects of third-party services, advertisements, or external websites. The presence of an advertisement does not necessarily mean that we endorse the advertised product or service.
+Google AdMob and Photon operate under their respective terms, policies, and technical conditions. Their availability or operation may affect certain Game features.
 
 Your use of third-party services is also subject to applicable third-party terms and privacy policies.
 
@@ -86,7 +86,9 @@ Nothing in these Terms excludes liability where such exclusion is prohibited by 
 
 Your use of the Game is also governed by our Privacy Policy, which explains how information may be handled by the Game, Photon, and Google AdMob.
 
-**Privacy Policy:** [Insert the published Privacy Policy URL before publishing these Terms.]
+**Privacy Policy:** https://groundnutgaminghouse-coder.github.io/card-memory-game-legal/privacy-policy
+
+Please review the Privacy Policy before using the Game.
 
 ## 11. Changes to These Terms
 
@@ -94,7 +96,7 @@ We may revise these Terms as the Game or applicable legal requirements change. W
 
 ## 12. Governing Law
 
-These Terms are subject to the laws of **[insert the applicable country and state or region]**, without limiting any mandatory consumer protections that apply in your place of residence.
+These Terms are governed by the laws of India, subject to applicable legal requirements and mandatory consumer protections.
 
 Any dispute will be handled by the courts or dispute-resolution process that has jurisdiction under applicable law.
 
