@@ -1,13 +1,13 @@
 # Privacy Policy — Groundnut Gaming House
 
-**App:** Memory Game  
+**App:** Titan Memory Master  
 **Publisher:** Groundnut Gaming House  
 **Contact:** groundnutgaminghouse@gmail.com  
-**Last updated:** October 14, 2026
+**Last updated:** October 23, 2026
 
 ## 1. Introduction
 
-Groundnut Gaming House (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how information may be collected, used, shared, and stored when you play our Memory Game (“the Game”).
+Groundnut Gaming House (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how information may be collected, used, shared, and stored when you play Titan Memory Master (“the Game”).
 
 The Game includes local player profiles, online multiplayer powered by Photon, and advertising powered by Google AdMob. We do not currently use Firebase Analytics or Firebase Crashlytics.
 
@@ -15,7 +15,7 @@ By using the Game, you acknowledge this Privacy Policy. Where consent is require
 
 ## 2. Information We Handle
 
-### A. Player profile and local settings
+### A. Player Profile and Local Settings
 
 The Game allows you to create a local profile using a player name and avatar. It generates a player identifier and stores profile information on your device using local storage.
 
@@ -29,7 +29,7 @@ Depending on your use of the Game, locally stored information may include:
 
 We do not operate a separate account database or cloud-save system for these local profiles. Local information may remain on your device until you delete it, clear the app's data, or uninstall the Game, subject to your device's behavior and backup settings.
 
-### B. Online multiplayer — Photon
+### B. Online Multiplayer — Photon
 
 The Game uses Photon services provided by Exit Games to enable online multiplayer.
 
@@ -52,16 +52,18 @@ The Game uses Google AdMob to display advertisements.
 Depending on the SDK version, configuration, device, region, consent choices, and applicable law, Google Mobile Ads may collect or process information such as:
 
 - IP address, which may be used to estimate general location.
-- Advertising ID, app set ID, or other device/account identifiers, where applicable.
+- Advertising ID, app set ID, or other device or app identifiers, where applicable.
 - Ad impressions, taps, video views, and other interactions with the Game or advertisements.
 - Diagnostic and performance information.
 - Information used for advertising delivery, measurement, fraud prevention, and related purposes.
 
-Google may use this information to provide personalized or non-personalized advertising, measure ad performance, and protect against invalid activity, as permitted by applicable settings and law.
+Depending on the applicable settings and legal requirements, advertisements may be personalized or non-personalized. The actual advertising behavior depends on the Game's AdMob configuration, the user's consent choices, and applicable policies.
+
+We intend to configure advertising in accordance with Google Play requirements and applicable laws, including requirements relating to children and families. The presence of AdMob in the Game does not by itself guarantee that the advertising configuration meets those requirements.
 
 Google's data practices are explained in its [Advertising Privacy and Terms information](https://policies.google.com/technologies/ads) and its [Google Mobile Ads SDK disclosure](https://developers.google.com/admob/unity/privacy/play-data-disclosure).
 
-### D. Information you send to us
+### D. Information You Send to Us
 
 If you contact us at groundnutgaminghouse@gmail.com, we receive your email address and the information you include in your message. We use it to respond to your enquiry and address support issues.
 
