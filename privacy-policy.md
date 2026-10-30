@@ -69,16 +69,6 @@ If you contact us at groundnutgaminghouse@gmail.com, we receive your email addre
 
 Please do not send passwords, payment card details, or unnecessary sensitive information.
 
-### E. Age Information and Advertising
-
-When a player creates a profile, the Game asks them to enter their age. The age is stored locally on the player's device using local storage.
-
-The Game uses the saved age to configure advertising requests, including age-related advertising treatment and the maximum ad content rating. Advertising is provided through Google AdMob, and Google may process information associated with ad requests in accordance with its own policies.
-
-The Game does not use the age field to create an account on a Groundnut Gaming House server. The age information is retained locally until the app's stored data is cleared or the relevant information is changed or deleted.
-
-Parents and guardians should supervise children's use of the Game and contact us with questions about children's information.
-
 ## 3. How We Use Information
 
 Information described in this Policy may be used to:
