@@ -3,13 +3,15 @@
 **App:** Titan Memory Master  
 **Publisher:** Groundnut Gaming House  
 **Contact:** groundnutgaminghouse@gmail.com  
-**Last updated:** October 23, 2026
+**Last updated:** November 10, 2026
 
 ## 1. Introduction
 
 Groundnut Gaming House (“we,” “us,” or “our”) respects your privacy. This Privacy Policy explains how information may be collected, used, shared, and stored when you play Titan Memory Master (“the Game”).
 
 The Game includes local player profiles, online multiplayer powered by Photon, and advertising powered by Google AdMob. We do not currently use Firebase Analytics or Firebase Crashlytics.
+
+The Game is intended for users aged 13 and older.
 
 By using the Game, you acknowledge this Privacy Policy. Where consent is required by law, we will request it separately.
 
@@ -41,7 +43,9 @@ When you play online, the Game and Photon may process information necessary to e
 - A developer-provided player identifier, if transmitted by the Game.
 - IP address, connection information, and related technical data processed by Photon to provide its networking service.
 
-Your nickname and avatar may be visible to other players in the same match. Do not use a player name that contains your full name, contact details, or other sensitive information.
+Your nickname and avatar may be visible to other players during gameplay and on the Game Over screen. The Game does not currently provide text chat or voice chat between players.
+
+Please do not use a player name that contains your full name, contact details, or other sensitive information.
 
 Photon processes data under its own service terms and privacy practices. For more information, read the [Photon Privacy and Cookie Policy](https://www.photonengine.com/terms/privacyandcookiepolicy).
 
@@ -59,7 +63,7 @@ Depending on the SDK version, configuration, device, region, consent choices, an
 
 Depending on the applicable settings and legal requirements, advertisements may be personalized or non-personalized. The actual advertising behavior depends on the Game's AdMob configuration, the user's consent choices, and applicable policies.
 
-We intend to configure advertising in accordance with Google Play requirements and applicable laws, including requirements relating to children and families. The presence of AdMob in the Game does not by itself guarantee that the advertising configuration meets those requirements.
+We intend to configure advertising in accordance with Google Play requirements and applicable laws, including requirements relating to children and families where applicable. The presence of AdMob in the Game does not by itself guarantee that the advertising configuration meets those requirements.
 
 Google's data practices are explained in its [Advertising Privacy and Terms information](https://policies.google.com/technologies/ads) and its [Google Mobile Ads SDK disclosure](https://developers.google.com/admob/unity/privacy/play-data-disclosure).
 
@@ -69,7 +73,19 @@ If you contact us at groundnutgaminghouse@gmail.com, we receive your email addre
 
 Please do not send passwords, payment card details, or unnecessary sensitive information.
 
-## 3. How We Use Information
+## 3. Intended Audience and Age Information
+
+Titan Memory Master is intended for users aged 13 and older. The Game is not specifically designed or marketed for children under 13.
+
+The Game does not ask players to provide their date of birth or age when creating a local player profile. Players can choose a display name and cartoon avatar.
+
+The Game does not currently provide text chat or voice chat between players. Player names and avatars may be visible to other players during gameplay and on the Game Over screen.
+
+Age classifications and legal protections may vary by country. In some jurisdictions, users aged 13–17 may still be considered children or minors under applicable laws. We handle information in accordance with applicable legal requirements and Google Play policies.
+
+Parents, guardians, or users with privacy-related questions can contact us at groundnutgaminghouse@gmail.com.
+
+## 4. How We Use Information
 
 Information described in this Policy may be used to:
 
@@ -82,7 +98,7 @@ Information described in this Policy may be used to:
 - Respond to support requests.
 - Meet applicable legal obligations.
 
-## 4. How Information Is Shared
+## 5. How Information Is Shared
 
 We do not operate our own cloud account or profile database for the Game.
 
@@ -95,16 +111,6 @@ Information may nevertheless be processed or shared with:
 These providers may process information on systems located in countries other than your own. Their own terms and privacy policies govern their services.
 
 We do not sell player profile information as a separate business activity. This statement does not override any classification of data sharing that may apply under privacy laws.
-
-## 5. Children and Families
-
-The Game is intended for children and adults. We aim to handle children's information in accordance with applicable privacy laws and Google Play's Families requirements.
-
-Because the Game uses an advertising SDK and online multiplayer, its child-safety settings and data practices must be configured appropriately for its declared audience.
-
-Where required, we will use appropriate age-screening, parental consent, advertising restrictions, and other safeguards. We do not ask players to enter sensitive personal information into their player names or other public profile fields.
-
-Parents or guardians who have questions about a child's use of the Game may contact us at groundnutgaminghouse@gmail.com.
 
 ## 6. Data Retention and Deletion
 
